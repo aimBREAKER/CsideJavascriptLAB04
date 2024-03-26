@@ -1,11 +1,11 @@
 {
     "companyName": "I-Scream Company Inc.",
     "headOffice": "North Pole",
-    "established": 2024,
+    "established": 2023,
     "active": true,
     "topFlavors": [{
         "name": "Chocolate Mint",
-        "calories": 200,
+        "calories": 300,
         "type": "ice-cream",
         "ingredients": [
             "Chocolate Syrup",
@@ -15,7 +15,7 @@
         "image": "https://vinniechachra.github.io/Lab-4/images/chocolate-mint.svg"
     }, {
         "name": "Peach Mango",
-        "calories": 250,
+        "calories": 350,
         "type": "milkshake-type ice-cream",
         "ingredients": [
             "Peach Syrup",
@@ -25,7 +25,7 @@
         "image": "https://vinniechachra.github.io/Lab-4/images/peach-mango.svg"
     }, {
         "name": "Strawberry Sprinkle",
-        "calories": 200,
+        "calories": 400,
         "type": "ice-cream",
         "ingredients": [
             "Strawberry Syrup",
@@ -35,23 +35,23 @@
         "image": "https://vinniechachra.github.io/Lab-4/images/strawberry-sprinkle.svg"
     },
     {
-        "name": "Choco Nuts",
-        "calories": 333,
+        "name": "Choco Almond Delight",
+        "calories": 400,
         "type": "ice cream",
         "ingredients": [
           "cocoa powder",
-          "almonds,Cashews,Pistachios,resins",
+          "almonds",
           "milk",
           "sugar"
         ],
         "image": "https://vinniechachra.github.io/Lab-4/images/ice-cream-xtra1.svg"
       },
       {
-        "name": "Coconut Blueberry twist",
-        "calories": 330,
+        "name": "Vanilla Blueberry Swirl",
+        "calories": 350,
         "type": "ice cream",
         "ingredients": [
-          "Grated coconut",
+          "vanilla beans",
           "blueberries",
           "cream",
           "sugar"
